@@ -1,0 +1,15 @@
+{
+  "name": "提瓦特旅途奖励手册",
+  "short_name": "旅途手册",
+  "description": "剧情驱动的原神私人奖励与旅途进度系统",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101927",
+  "theme_color": "#17263a",
+  "orientation": "portrait-primary",
+  "icons": [
+    {"src":"./icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"./icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
